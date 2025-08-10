@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-google-genai
+langchain-community
+langgraph
+duckduckgo-search
+huggingface-hub
+datasets
+rank-bm25
+python-dotenv
+requests
