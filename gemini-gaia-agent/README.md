@@ -3,7 +3,7 @@
 A Gradio-based agent powered by Google's Gemini 2.5 Pro model to solve GAIA (General AI Assistants) benchmark questions.
 
 ## 🎯 Performance
-- **Current Score**: 12/20 correct (60%) on GAIA Level 1 questions
+- **Current Score**: 12/20 correct (60%) on GAIA Level 1 questions (passing score is 30%)
 - **Model**: Gemini 2.5 Pro with dynamic reasoning capabilities
 
 ## ✨ Features
@@ -63,5 +63,5 @@ GAIA tests fundamental AI capabilities including:
 - Multimodal understanding
 
 ## 🔗 Links
-- [GAIA Benchmark Paper](https://huggingface.co/gaia-benchmark)
-- [Google Gemini Documentation](https://ai.google.dev/)
+- [GAIA Benchmark Paper](https://arxiv.org/abs/2311.12983)
+- [Google Gemini Documentation](https://ai.google.dev/gemini-api/docs)
