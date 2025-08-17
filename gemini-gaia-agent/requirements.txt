@@ -1,0 +1,4 @@
+gradio
+requests
+pandas
+google-genai>=0.1.0
